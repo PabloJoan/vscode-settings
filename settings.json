@@ -1,0 +1,36 @@
+{
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "debug.console.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "workbench.sideBar.location": "right",
+    "editor.rulers": [80],
+    "terminal.integrated.fontSize": 16,
+    "editor.fontFamily": "'Ubuntu Mono', Menlo, Monaco, 'Courier New', monospace",
+    "window.zoomLevel": 1,
+    "extensions.ignoreRecommendations": true,
+    "telemetry.telemetryLevel": "off",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.run": "onSave",
+    "intellicodeApiExamples.python.enabled": false,
+    "vsintellicode.python.completionsEnabled": false,
+    "vsintellicode.sql.completionsEnabled": false,
+    "prettier.tabWidth": 4,
+    "prettier.vueIndentScriptAndStyle": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "gopls": {
+        "ui.semanticTokens": true
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    }
+}
